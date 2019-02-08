@@ -1,6 +1,6 @@
 node_modules
 /data/
 /config.json
-/config.js
+#/config.js
 .env
 .idea/
