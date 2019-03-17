@@ -31,7 +31,7 @@ module.exports = {
 	 * @type {!string}
 	 * Telegram Bot token obtained from https://t.me/BotFather.
 	 */
-	token: '781096665:AAGhc2Sm5qioaSZCU5SVAGAIlqqlaVcA7jM',
+	token: '781096665:AAHYaL2vjFNen5TgADYGDAS-F7JwxdE2Vtk',
 
 
 	chats: {
@@ -117,7 +117,7 @@ module.exports = {
 	 * List of plugin names to be loaded.
 	 * See Readme in plugins directory for more details.
 	 */
-	plugins: ['code.js',],
+	plugins: ['code.js','test.js'],
 
 	/**
 	 * @type {InlineKeyboardMarkup}
