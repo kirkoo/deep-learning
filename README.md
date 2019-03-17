@@ -1,3 +1,7 @@
+the links to the various packages we will be using for nudity detection and swear word detection are:
+nudity detection: https://www.npmjs.com/package/nudity-filter
+swear word detection: https://www.npmjs.com/package/bad-words
+
 <p align="center">
   <img src="assets/logo.png" width="180" height="180">
   <h1 align="center">The Guard Bot</h1>
@@ -6,7 +10,7 @@ The Guard is a Telegram bot made to help admins manage their groups.
 
 Initially created to moderate [The Devs Network](https://thedevs.network).
 
-**NOTE: The Guard is still in alpha phase and is not ready for production**
+
 
 If you need help with using the Bot or setting it up, join our [Support Chat](https://t.me/theguardsupport).
 
