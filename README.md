@@ -1,6 +1,6 @@
-the links to the various packages we will be using for nudity detection and swear word detection are:
-nudity detection: https://www.npmjs.com/package/nudity-filter
-swear word detection: https://www.npmjs.com/package/bad-words
+<p>the links to the various packages we will be using for nudity detection and swear word detection are:<p>
+<p>nudity detection: https://www.npmjs.com/package/nudity-filter<p>
+<p>swear word detection: https://www.npmjs.com/package/bad-words<p>
 
 <p align="center">
   <img src="assets/logo.png" width="180" height="180">
